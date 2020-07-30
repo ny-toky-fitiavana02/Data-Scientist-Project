@@ -1,6 +1,12 @@
+#!/usr/bin/env ruby
+
+#Projet 1:Big Data
+
+###############################################
+
+# Design du projet
 def design(str,n)
-    # Mis en forme de l'affichage
-    if n == 0
+        if n == 0
         puts   str
         puts "_"*str.length
     end
@@ -10,7 +16,9 @@ def design(str,n)
     end
 end
 
-	# Affichage des questions
+###############################################
+
+	# Liste des questions
 def  menu
     design("Choisis une question ! de 1 à 9 !",1)
     puts "Bienvenue dans notre outil Big Data"
@@ -30,7 +38,9 @@ def  menu
     return question
 end
 
-	#retour au menu
+###############################################
+
+	#Menu principal
 def selection
     
     design("[0] Revenir au menu principal!",1)
@@ -49,7 +59,9 @@ def selection
     
 end
 
-#Choix des questions
+###############################################
+
+	#Choix des questions
 def choice(question)
     if question == 1
         question1
@@ -89,6 +101,8 @@ def choice(question)
     end
     return choice(menu)
 end
+
+###############################################
 
 # initialisation du tableau
 def nom
