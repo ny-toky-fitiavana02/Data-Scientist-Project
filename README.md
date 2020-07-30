@@ -9,7 +9,7 @@ Dans ce projet, on a manipulé les méthodes fondamentaux dans ruby particulièr
 
 
 
-					*Composition*
+								 #Composition
 
 Projet-Data_scientist
 
@@ -21,7 +21,7 @@ Projet-Data_scientist
 
 └── README.md 
 					
-					*Leur fonctionnalités*
+							       #Leur fonctionnalités
 					
 
 #00_journalist.rb
@@ -40,6 +40,7 @@ On a répondu à ces questions:
 
 
 
+
 #01_cryptocurrencies.rb 
 
 Et de même, on a vu sur les différent thèmes sur la cryptmonnaie:
@@ -51,7 +52,7 @@ Et de même, on a vu sur les différent thèmes sur la cryptmonnaie:
 - Quel est le cours le plus haut parmi celle-la ?
 
 
-					*Participants*
+								#Participants
 					
 					
  - RAMAHATAFANDRY Fanomezana Nirina : https://github.com/FaSa1316 
