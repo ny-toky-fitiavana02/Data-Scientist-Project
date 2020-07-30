@@ -5,9 +5,11 @@
 
 
 
-Dans ce projet, on a manipulé les méthodes fondamentaux dans ruby particulièrement les hashs et les arrays. Nous avons des grosses arrays contenant plusieurs centaines d'éléments.
+Dans ce projet, on a manipulé les méthodes fondamentaux dans ruby particulièrement les hashs et les arrays. Nous avons des grosses arrays contenant plusieurs centaines d'éléments.Nous avons fait en sorte que les 2 programmes soient facile à utiliser et de répondre au maximum de vitesse pour que l'utilisateur soit à l'aise.
 
-					##Composition
+
+
+					*Composition*
 
 Projet-Data_scientist
 
@@ -19,7 +21,8 @@ Projet-Data_scientist
 
 └── README.md 
 					
-					##Leur fonctionnalités
+					*Leur fonctionnalités*
+					
 
 #00_journalist.rb
 
@@ -35,7 +38,6 @@ On a répondu à ces questions:
 - Quels sont les 50 handles les plus courts de cette array ?
 - Quelle est la position dans l'array de la personne @epenser ?
 
-Nous avons fait en sorte que les 2 applications soient facile d'utilisation, c-à-d qu'au lieu de donner une liste complète qui répond à toute les question d'un coup, on a créé une méthode pour choisir une manipulation à faire pour choisir quelle question sur les 2 applications répondre
 
 
 #01_cryptocurrencies.rb 
@@ -48,7 +50,9 @@ Et de même, on a vu sur les différent thèmes sur la cryptmonnaie:
 - Sors moi tout les devises, dont le cours est inférieur à 6000 (indice: pense bien à enlever le $ pour pouvoir faire une comparaison)
 - Quel est le cours le plus haut parmi celle-la ?
 
-					##Participants
+
+					*Participants*
+					
 					
  - RAMAHATAFANDRY Fanomezana Nirina : https://github.com/FaSa1316 
  - RANDIMBIARILANTO  Mino : https://github.com/MinoRandy
