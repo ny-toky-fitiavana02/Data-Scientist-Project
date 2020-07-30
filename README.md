@@ -9,7 +9,7 @@ Dans ce projet, on a manipulé les méthodes fondamentaux dans ruby particulièr
 
 
 
-								 # Composition
+								 #Composition
 
 Projet-Data_scientist
 
