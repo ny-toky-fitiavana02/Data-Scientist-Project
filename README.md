@@ -5,7 +5,7 @@
 
 
 
-Dans ce projet, on a manipulé les méthodes fondamentaux dans ruby particulièrement les hashs et les arrays. Nous avons des grosses arrays contenant plusieurs centaines d'éléments.Nous avons fait en sorte que les 2 programmes soient facile à utiliser et de répondre au maximum de vitesse pour que l'utilisateur soit à l'aise.
+Dans ce projet, on a manipulé les méthodes fondamentaux dans ruby particulièrement les hashs et les arrays.Nous avons fait en sorte que les 2 programmes dans ce projet soient facile à utiliser et de répondre au maximum de vitesse pour que l'utilisateur soit à l'aise.
 
 
 
