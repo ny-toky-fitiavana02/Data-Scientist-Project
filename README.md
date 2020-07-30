@@ -28,7 +28,7 @@ Projet-Data_scientist
 
 On a répondu à ces questions:
 
-- Combien y a t'il de journalistes dans cette array ?
+- Combien y a-t-il de journalistes dans cette array ?
 - Combien d'handle contiennent un numéro ?
 - Combien d'handle contiennent les 4 lettres du prénom "Aude" à la suite (sans faire attention à la casse) ?
 - Combien commencent par une majuscule ?
