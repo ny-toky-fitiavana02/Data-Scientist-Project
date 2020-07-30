@@ -7,17 +7,23 @@
 
 Dans ce projet, on a manipulé les méthodes fondamentaux dans ruby particulièrement les hashs et les arrays. Nous avons des grosses arrays contenant plusieurs centaines d'éléments.
 
-Le projet se compose de 2 parties:
+					##Composition
 
-journalists.rb
+Projet-Data_scientist
 
-cryptocurrencies.rb
+├── lib
 
-					*Leur fontonnalités*
+│       ├── 00_journalists.rb
 
-##journalist.rb
+│       └── 01_cryptocurrencies.rb
 
- On a répondu à ces questions:
+└── README.md 
+					
+					##Leur fonctionnalités
+
+#00_journalist.rb
+
+On a répondu à ces questions:
 
 - Combien y a t'il de journalistes dans cette array ?
 - Combien d'handle contiennent un numéro ?
@@ -32,16 +38,21 @@ cryptocurrencies.rb
 Nous avons fait en sorte que les 2 applications soient facile d'utilisation, c-à-d qu'au lieu de donner une liste complète qui répond à toute les question d'un coup, on a créé une méthode pour choisir une manipulation à faire pour choisir quelle question sur les 2 applications répondre
 
 
-##cryptocurrencies.rb 
+#01_cryptocurrencies.rb 
 
 Et de même, on a vu sur les différent thèmes sur la cryptmonnaie:
 
 - Donne moi la (ou les) crypto qui a la plus grosse valeur
-
 - Donne moi la (ou les) crypto qui a la plus petite valeur
-
 - Combien de crypto contiennent le mot "coin" ?
-
 - Sors moi tout les devises, dont le cours est inférieur à 6000 (indice: pense bien à enlever le $ pour pouvoir faire une comparaison)
-
 - Quel est le cours le plus haut parmi celle-la ?
+
+					##Participants
+					
+ - RAMAHATAFANDRY Fanomezana Nirina : https://github.com/FaSa1316 
+ - RANDIMBIARILANTO  Mino : https://github.com/MinoRandy
+ - RABEMIARINTSOA Anny Zo : https://github.com/Annyzo
+ - Rabearimanana Tolotry ny Avo : https://github.com/Tolotra0977
+ - RIANJHARINELINA Ny Toky Fitiavana : https://github.com/ny-toky-fitiavana02
+ - ANDRIANASOLO Tolotra judicael :  https://github.com/Tolotra-Judicael
